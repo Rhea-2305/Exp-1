@@ -78,7 +78,7 @@ int main()
 
 
 2.) Input from user
-![image](https://github.com/user-attachments/assets/399b92c2-1239-44d2-a1e3-db0094b2d286)
+![image](https://github.com/user-attachments/assets/cbe23b16-fbdc-4168-b50c-bae902b419e1)
 
 
 3.) Calculator
