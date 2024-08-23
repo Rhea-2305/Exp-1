@@ -82,7 +82,8 @@ int main()
 
 
 3.) Calculator
-![image](https://github.com/user-attachments/assets/19eeb2ab-959a-48bc-9332-f843b65c7789)
+![image](https://github.com/user-attachments/assets/35038c2e-2422-497e-b16e-1acf19c6078a)
+
 
 
 
