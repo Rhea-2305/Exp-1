@@ -73,7 +73,8 @@ int main()
 ## Output
 
 1.) Print hello world
-![image](https://github.com/user-attachments/assets/749b9a1d-5818-4376-9c61-36c5b8f6f772)
+![image](https://github.com/user-attachments/assets/e67c8104-e3cb-4a30-87ae-9626dca69336)
+
 
 
 2.) Input from user
